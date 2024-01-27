@@ -13,7 +13,7 @@ SNS： https://tm-misfit.hateblo.jp
  * @base PluginCommonBase
  * @orderAfter PluginCommonBase
  * @url https://raw.githubusercontent.com/okiashi/RPGMakerMZ/main/OKAS_consolelog.js
- * @help OKAS_consolelog.js (2024/01/25 Ver.1.0.0)
+ * @help OKAS_consolelog.js (2024/01/28 Ver.1.0.1)
  * 
  * 概要：
  * -console.log('ここに文字');の内容をプラグインコマンドから入力できます。
