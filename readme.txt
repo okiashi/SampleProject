@@ -22,9 +22,10 @@ SNS： https://tm-misfit.hateblo.jp
 -OKAS_SaveChangeParallax.js
 -OKAS_SaveChangeTint.js
 
-ブラウザからゲームプレイの場合、「OKAS_consolelog.js」以外の動作確認ができます。
 ※小さめにしてありますが音が出ます。ご注意ください。
-※ハードウェアアクセラレーションを「ON」にして下さい。OFFの場合、画像が読み込めない等のERRORがでます。
+※GoogleChrome等、対応しているブラウザで開いて下さい。
+※ハードウェアアクセラレーションを「ON」にして下さい。
+＞上記に問題がある場合、「Error Failed to initialize graphics.」等のERRORがでます。
 
 「OKAS_consolelog.js」の動作確認はPCにプロジェクトをダウンロードいただき、
 同梱の「game.rmmzproject」を起動してテストプレイを押してください。
